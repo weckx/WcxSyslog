@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "0dc5e3490cb96a063aaf931717760e6f",
+    "packages": [
+        {
+            "name": "weckx/wcx-syslog",
+            "version": "1.1.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/weckx/wcx-syslog.git",
+                "reference": "f50a552a5d4c6032bc0c6b7ef630c31fb80f4cc7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/weckx/wcx-syslog/zipball/f50a552a5d4c6032bc0c6b7ef630c31fb80f4cc7",
+                "reference": "f50a552a5d4c6032bc0c6b7ef630c31fb80f4cc7",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "3.7.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Wcx\\": "library/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Felipe Weckx",
+                    "email": "felipe@weckx.net"
+                }
+            ],
+            "description": "Simple PHP Syslog message library",
+            "time": "2014-01-29 13:50:21"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "weckx/wcx-syslog": 20
+    },
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
