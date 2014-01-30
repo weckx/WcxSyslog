@@ -1,0 +1,18 @@
+{
+    "name": "weckx/wcx-syslog-module",
+    "type": "library",
+    "description": "Module for wcx-syslog library.",
+    "keywords": ["syslog", "api", "library"],
+    "homepage": "http://github.com/weckx/wcx-syslog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Felipe Weckx",
+            "homepage": "http://felipe.weckx.net",
+            "email": "felipe@weckx.net"
+        }
+    ],
+    "require": {
+        "weckx/wcx-syslog": "1.*@dev"
+    }
+}
