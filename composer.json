@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Module for wcx-syslog library.",
     "keywords": ["syslog", "api", "library"],
-    "homepage": "http://github.com/weckx/wcx-syslog",
+    "homepage": "http://github.com/weckx/wcx-syslog-module",
     "license": "MIT",
     "authors": [
         {
@@ -13,6 +13,6 @@
         }
     ],
     "require": {
-        "weckx/wcx-syslog": "dev-master"
+        "weckx/wcx-syslog" : "dev-master",
     }
 }
