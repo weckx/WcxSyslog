@@ -13,6 +13,6 @@
         }
     ],
     "require": {
-        "weckx/wcx-syslog": "1.*@dev"
+        "weckx/wcx-syslog": "dev-master"
     }
 }
