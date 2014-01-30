@@ -1,5 +1,5 @@
 {
-    "name": "weckx/WcxSyslog",
+    "name": "weckx/wcx-syslog-module",
     "type": "library",
     "description": "Module for wcx-syslog library.",
     "keywords": ["syslog", "api", "library"],
